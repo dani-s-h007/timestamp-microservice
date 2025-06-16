@@ -24,7 +24,7 @@ Returns the current time in Unix and UTC format.
 
 ## Setup Instructions
 # Clone the repository
-git clone https://github.com/your-username/timestamp-microservice.git
+git clone https://github.com/dani-s-h007/timestamp-microservice.git
 cd timestamp-microservice
 
 # Install dependencies
