@@ -21,17 +21,3 @@ Returns the current time in Unix and UTC format.
   "utc": "Fri, 15 Apr 2022 12:00:00 GMT"
 }
 ```
-
-## Setup Instructions
-# Clone the repository
-git clone https://github.com/dani-s-h007/timestamp-microservice.git
-cd timestamp-microservice
-
-# Install dependencies
-npm install
-
-# Start the server
-npm start
-
-# Visit in your browser
-http://localhost:3000/api
